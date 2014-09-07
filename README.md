@@ -1,15 +1,12 @@
 # Multi-Process Browser
        
- 1. The purpose of the program:
-       The purpose of the program is to run a web-browser with
-       a multiprocess architecture that can open tabs and
-       render web-pages in them. Because of the design,
-       one tab crashing will not stall any other tab or the web-browser.
+ 1. The purpose of the program:  
+ The purpose of the program is to run a web-browser with a multiprocess architecture that can open tabs and render web-pages in them. Because of the design, one tab crashing will not stall any other tab or the web-browser.
        
 
-2. How to compile the program:
-   Input the following command:  
-   make
+2. How to compile the program:  
+Input the following command:  
+make
 
 3. How to use the program from the shell (syntax):
    Input the following command:  
